@@ -1,5 +1,11 @@
 [
   {
-   "name": "vengria" 
+    "name": "Hungarian Soviet Socialist Republic(HSSR)",
+    "liderName": "",
+    "adjective": [""],
+	  "startBias": [""],
+	  "personality": "",
+	  "preferredVictoryType": "",
+    
   },
 ]
